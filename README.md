@@ -1,7 +1,7 @@
 # Locust script for testing oTree apps
 
 ## Attention:
-This code will work with the most recent version of oTree. For older ones, a slightly different approach is needed. DM me.
+This code will work with the most recent version of oTree (5.8.5). For older ones, a slightly different approach is needed, see the forked repository for that.
 
 ## Installation:
 1. Install locust: 
